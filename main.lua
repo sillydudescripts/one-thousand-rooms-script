@@ -54,7 +54,7 @@ end
 
 -- QUEUE SCRIPT ON TELEPORT
 queue_on_teleport([[
-    loadstring(game:HttpGet("YOUR_RAW_SCRIPT_URL_HERE"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/sillydudescripts/one-thousand-rooms-script/refs/heads/main/main.lua"))()
 ]])
 
 -- DETECT DEATH
